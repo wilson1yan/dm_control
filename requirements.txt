@@ -3,7 +3,6 @@ dm-env==1.6
 dm-tree==0.1.9
 glfw==2.9.0
 h5py==3.14.0
-labmaze==1.0.6
 lxml==6.0.1
 mock==5.2.0
 mujoco==3.6.0
