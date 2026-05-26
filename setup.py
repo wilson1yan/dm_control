@@ -189,7 +189,6 @@ notebook: [Open In Google Colab](https://colab.research.google.com/github/google
         'dm-env',
         'dm-tree != 0.1.2',
         'glfw',
-        'labmaze',
         'lxml',
         'mujoco >= 3.6.0',
         'numpy >= 1.9.0',
