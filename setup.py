@@ -190,7 +190,7 @@ notebook: [Open In Google Colab](https://colab.research.google.com/github/google
         'dm-tree != 0.1.2',
         'glfw',
         'lxml',
-        'mujoco >= 3.6.0',
+        'mujoco >= 3.6.0, < 3.9.0',
         'numpy >= 1.9.0',
         'protobuf >= 3.19.4',
         'pyopengl >= 3.1.4',
